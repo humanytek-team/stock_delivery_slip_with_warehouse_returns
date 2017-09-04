@@ -1,0 +1,43 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* stock_delivery_slip_with_warehouse_returns
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170207\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-04 20:44+0000\n"
+"PO-Revision-Date: 2017-09-04 16:48-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: stock_delivery_slip_with_warehouse_returns
+#: model:ir.model.fields,field_description:stock_delivery_slip_with_warehouse_returns.field_report_stock_report_deliveryslip_display_name
+msgid "Display Name"
+msgstr "Nombre desplegado"
+
+#. module: stock_delivery_slip_with_warehouse_returns
+#: model:ir.model.fields,field_description:stock_delivery_slip_with_warehouse_returns.field_report_stock_report_deliveryslip_id
+msgid "ID"
+msgstr "ID"
+
+#. module: stock_delivery_slip_with_warehouse_returns
+#: model:ir.model.fields,field_description:stock_delivery_slip_with_warehouse_returns.field_report_stock_report_deliveryslip___last_update
+msgid "Last Modified on"
+msgstr "Ultima modificacion realizada"
+
+#. module: stock_delivery_slip_with_warehouse_returns
+#: model:ir.ui.view,arch_db:stock_delivery_slip_with_warehouse_returns.report_delivery_slip_with_returns
+msgid "Reasons for return"
+msgstr "Motivo de Devolución"
+
+#. module: stock_delivery_slip_with_warehouse_returns
+#: model:ir.model,name:stock_delivery_slip_with_warehouse_returns.model_report_stock_report_deliveryslip
+msgid "report.stock.report_deliveryslip"
+msgstr "report.stock.report_deliveryslip"
